@@ -1,0 +1,10 @@
+
+testenv
+
+/data/
+
+# Ignore checkpoint files from jupyter notebooks
+.ipynb_checkpoints/
+scripts/__pycache__/
+project/data/*
+notebooks/runs/*
